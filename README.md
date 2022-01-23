@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on API clones
 - 📫 How to reach me
 link below is my github id.
-https://github.com/Gupta-Saurabh0/KJHKJGKJ.git
+github.com/gupta-saurabh0
 
 <!---
 Gupta-Saurabh0/Gupta-Saurabh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
